@@ -1,4 +1,4 @@
-### Hello 👋 , I'm  a Full-stack software programmer, Jihyun Lee. 
+## Hello 👋 , I'm  a Full-stack software programmer, Jihyun Lee. 
 <br>
 
 ## ⚡ I am ...
