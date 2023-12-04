@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello 👋 , I'm  a Full-stack software programmer, Jihyun Lee. 
+<br>
+
+⚡ I am ...
+- major in Statistics (Bachelor's degree)
+- analytical
+- considerate
+- cautious
+<br><br>
+
+📚 I’m currently studying at ...
+- Shinsegae I&C spharos Academy.
 
 <!--
 **ImaginCreature/ImaginCreature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
