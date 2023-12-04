@@ -1,5 +1,5 @@
-## Hello 👋 , I'm  a Full-stack software programmer, Jihyun Lee. 
-<br>
+### Hello 👋 , I'm  a Full-stack software programmer, Jihyun Lee. 
+
 
 ## ⚡ I am ...
 - major in Statistics (Bachelor's degree)
