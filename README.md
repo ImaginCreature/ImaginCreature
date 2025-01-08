@@ -2,7 +2,7 @@
 
 
 ## ⚡ I am ...
-- major in Statistics (Bachelor's degree)
+- major in Statistics 
 - analytical
 - considerate
 - cautious
