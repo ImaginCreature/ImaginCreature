@@ -5,7 +5,6 @@
 - major in Statistics 
 - analytical
 - considerate
-- cautious
 <br>
 
 <br>
